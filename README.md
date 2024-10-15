@@ -1,7 +1,7 @@
 # Product-Review-Analysis
 
 The dataset taken for the analysis was taken from Amazon Reviews.csv which contained productID, userID, Title, Summary, Text etc.
-
+<center> <img src = "https://github.com/sandipanrakshit34/SentimentSphere---Intelligent-Product-Review-Classifier/blob/main/artificial-intelligence-in-product.png" width = 100%>
 # Classification of sentiment analysis
 The approaches made in Product Review Analysis(sentiment analysis)can be categorized based on techniques used. In this project the Reviews are categorised based on ,
 1.	Machine Learning: Dataset are to be trained beforehand Using Standard machine algorithms After which the trined model can be tested on review for categorising. 
