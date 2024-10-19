@@ -18,3 +18,8 @@ In the Deep learning Based Analysis The Sequential model had the following struc
 Conv1D  ->  Conv1D  ->  Conv1D  ->  Max Pooling1D  ->  Bidirectional LSTM ->  Dense  ->  Dropout  ->  Dense  ->  Dropout  ->  Dense  ->  Dropout  ->  Output
 Here We also used Early stoppping function to make sure the Model doesn't overfit 
 
+## Author
+
+- [@sandipanrakshit34](https://github.com/sandipanrakshit34)
+
+##
